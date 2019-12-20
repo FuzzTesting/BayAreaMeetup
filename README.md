@@ -1,6 +1,8 @@
 # meetups
 Materials from Fuzzing Bay Area meetups
 
+![Fuzzing Bay Area meetup logo](/images/logo.png)
+
 ## Meetup #2 (2019-12-12)
 
 Original event [link](https://www.eventbrite.com/e/fuzzing-bay-area-meetup-2-tickets-82684518621#).
