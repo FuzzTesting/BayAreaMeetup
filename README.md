@@ -1,4 +1,3 @@
-# meetups
 Materials from Fuzzing Bay Area meetups
 
 ![Fuzzing Bay Area meetup logo](/images/logo.png)
